@@ -60,14 +60,16 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  color:#0090ff;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  /*font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;*/
   letter-spacing: -1px;
 }
 
 h1 {
   font-size: 36px;
   font-weight: 700;
+  font-family: 'Architects Daughter';
 }
 
 h2 {
@@ -294,6 +296,15 @@ Full-Width Styles
   padding: 10px 10px 10px 10px;
 }
 
+#header_wrap h1 {
+  color: #fffff8;
+} 
+
+#header_wrap h2 {
+  color: #fffff8;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+} 
+
 #project_title {
   margin: 0;
   color: #fffff8;
@@ -310,6 +321,12 @@ Full-Width Styles
   font-style: italic;
   background: none;
   text-shadow: #111 0px 0px 10px;
+}
+
+#project_tagline a:hover, #project_tagline a:link, #project_tagline a:active, #project_tagline a:visited {
+  color: #fffffb;
+  font: inherit;
+  text-shadow: inherit;
 }
 
 #downloads {
@@ -368,7 +385,6 @@ Full-Width Styles
 }
 
 
-
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
@@ -425,4 +441,12 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+@font-face {
+  font-family: "Architects Daughter";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Architects Daughter"), local("ArchitectsDaughter"), url("https://fonts.gstatic.com/s/architectsdaughter/v6/RXTgOOQ9AAtaVOHxx0IUBM3t7GjCYufj5TXV5VnA2p8.woff2") format("woff2");
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }

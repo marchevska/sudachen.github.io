@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
-title: Alexey Sudachen
-description: my cyber engineering projects
+site:
+  title: Alexey Sudachen
+  description: my cyber engineering projects

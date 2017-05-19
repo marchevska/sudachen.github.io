@@ -1,4 +1,6 @@
 theme: jekyll-theme-architect
 site:
   title: Alexey Sudachen
-  description: my cyber engineering projects
+  description: the page of my cyber engineering projects
+  github:
+    repository_url: https://github.com/sudachen

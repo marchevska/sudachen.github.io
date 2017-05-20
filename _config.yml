@@ -1,6 +1,11 @@
 theme: jekyll-theme-slate
-
 title: Alexey Sudachén on GitHub
 description: the page about me and my cyber engineering projects
 github:
   repository_url: https://github.com/sudachen
+gems:
+  - jekyll-feed
+  - jekyll-theme-slate
+exclude:
+  - Gemfile
+  - Gemfile.lock

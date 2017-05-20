@@ -2,7 +2,7 @@
 
 <img align="right" class="padding_20" src="assets/me.jpg">
 
-# About
+# About Me
 > _I’m a true hacker. I deeply research what attracts my attention to know how it works and how it can be used curiously. Doesn't matter if it's things, computer programs or even people._
 
 To research something interesting me I often do tiny pet projects. Sometimes it becomes not so tiny. 
@@ -11,4 +11,4 @@ Currently I looking for applying my skills and knowledge in machine-human intera
 
 Scince human neural system, phisiology, behaviour and mentality are variating from one to other it also requires good knowledge in machine learning and data mining. So another things I learn and practice in are applied Artifitial Intelligence and common Data Scince.
 
-# Projects
+# My Projects

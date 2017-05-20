@@ -12,7 +12,7 @@ Scince human neural system, phisiology, behaviour and mentality are variating fr
 
 # My Projects
 
-To research something interesting me I often do tiny pet projects. Sometimes it becomes not so tiny. I have a lot pet projects and not all of them are presented in my github. By the way you can simply look in my profile to find more. There I count only last projects related to my current interests.
+To research something interesting me I often do tiny pet project. Sometimes it becomes not so tiny ;). I have a lot pet projects and not all of them are presented in my github. By the way you can simply look in my GitHub profile to find more. There I count only last projects related to my current interests.
 
 ### Myelofon &nbsp; _[sudachen.github.io/Myelofon](https://sudachen.github.io/Myelofon)_
 **Myelofon** is a brain waves spectrum analyzer.

@@ -21,4 +21,4 @@ To research something interesting me I often do tiny pet projects. Sometimes it 
 **uCcm** is an uC Cortex-M building tool and modules manager.
 
 ### Applied AI Group &nbsp; _[lnked.in/aaigroup](https://lnked.in/aaigroup)_
-**Applied Artificial Intelligence** is a linkedin group related to aplications of the applied artifitial intelligance.
+**Applied Artificial Intelligence** is a linkedin group related to aplications of the applied artifitial intelligance. It has more than 17K members.

@@ -7,4 +7,4 @@ To research something interesting me I often do tiny pet projects. Sometimes it 
 
 Currently I looking for applying my skills and knowledge in machine-human interaction/symbiosis. So I doing some projects related to noniuasive interconnection/sensing with human neural system and digital healthcare. It means I making not only PC software but both my own hardware and firmware for existing common hardware like fitnes wristbands. 
 
-Scince human neural system and body are variating from one to other it also requires good knowledge in machile learning and data mining. So another things I learning and practice in: applied Artifitial Intelligence and common Data Scince.
+Scince human neural system and body are variating from one to other it also requires good knowledge in machile learning and data mining. So another things I learning and practice in are applied Artifitial Intelligence and common Data Scince.

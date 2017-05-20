@@ -15,4 +15,10 @@ Scince human neural system, phisiology, behaviour and mentality are variating fr
 To research something interesting me I often do tiny pet projects. Sometimes it becomes not so tiny. I have a lot pet projects and not all of them are presented in my github. By the way you can simply look in my profile to find more. There I count only last projects related to my current interests.
 
 ## [github.com/sudachen/Myelofon](https://github.com/sudachen/Myelofon)
+**Myelofon** is a brain waves spectrum analyzer.
+
 ## [github.com/sudachen/uccm](https://github.com/sudachen/uccm)
+**uCcm** is an uC Cortex-M building tool and modules manager.
+
+## [lnked.in/aaigroup](http://lnked.in/aaigroup)
+**Applied Artificial Intelligence** is a linkedin group related to aplications of the applied artifitial intelligance.

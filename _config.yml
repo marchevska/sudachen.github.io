@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Alexey Sudachén on GitHub
 description: the page about me and my cyber engineering projects
+google_analytics: UA-99577378-1
 github:
   repository_url: https://github.com/sudachen
 gems:

@@ -13,10 +13,10 @@ Currently I'm looking for applying my skills and knowledge to machine-human inte
 To research something interesting me I often do tiny pet project. Sometimes it becomes not so tiny ;). I have a lot pet projects and not all of them are presented in my github. By the way you can simply look in my GitHub profile to find more. There I count only last projects related to my current interests.
 
 ### Myelofon &nbsp; _[sudachen.github.io/Myelofon](https://sudachen.github.io/Myelofon)_
-**Myelofon** is a brain waves spectrum analyzer.
+**Myelofon** is an EEG sensor and the set of required software and firmware to getting frequency spectrum of the brain activity and analyze it and its dynamic.
 
 ### uCcm &nbsp; _[sudachen.github.io/uccm](https://sudachen.github.io/uccm)_
-**uCcm** is an uC Cortex-M building tool and modules manager.
+**uCcm** is an uC Cortex-M zero-config building tool and modules manager. It does not require additional configuration files. All required information needed to build firmware exists in sources.
 
 ### Applied AI Group &nbsp; _[lnked.in/aaigroup](https://lnked.in/aaigroup)_
 **Applied Artificial Intelligence** is a linkedin group related to aplications of the artifitial intelligance. It has more than 17K members.

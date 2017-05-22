@@ -6,9 +6,7 @@
 
 > _I’m a true hacker. I deeply research what attracts my attention to know how it works and how it can be used curiously. Doesn't matter if it's things, computer programs or even people._
 
-Currently I'm looking for applying my skills and knowledge to machine-human interaction/symbiosis. So I doing some projects related to digital health and noninvasive interconnection/sensing human neural system. It means I make not only PC software but both my own hardware and firmware for existing common hardware like fitness wristbands. 
-
-Scince human neural system, phisiology, behaviour and mentality are variating from one to other it also requires good knowledge in machine learning and data mining. So another things I learn and practice in are applied Artifitial Intelligence and common Data Scince.
+Currently I'm looking for applying my skills and knowledge to machine-human interaction/symbiosis. So I doing some projects related to digital health and noninvasive interconnection/sensing human neural system. It means I make not only PC software but both my own hardware and firmware for existing common hardware like fitness wristbands. I can freely do it because I have experience and solid knowledge in programming all things from bare metal to cloud services and I skilled enough in electronics to make my own hardware or reverse existing. Also I learn psychlogy, human biology and neuroscince to understand how, why and what I need to do for achive my goals.
 
 # My Projects
 

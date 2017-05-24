@@ -4,7 +4,7 @@
 
 # About Me
 
-> _I’m a true hacker. I research in deep stuff that attracts my attention to learn how it works and how it can be used curiously. It дoesn't matter if it's about things, computer software or even people._
+> _I’m a true hacker. I research in deep stuff that attracts my attention to learn how it works and how it can be used curiously. It doesn't matter if it's about things, computer software or even people._
 
 
 Currently I'm looking to apply my skills and knowledge to machine-human interaction/symbiosis. So I'm doing some projects related to digital health and non-invasive interconnection/sensing human neural system. I can do this fairly free since I have experience and solid knowledge in programming all things from bare metal to cloud services, and I'm skilled enough in electronics to make my own hardware or reverse existing one. I also study psychlogy, human biology and neuroscience, to understand how, why, and what I need to do to achieve my goals.

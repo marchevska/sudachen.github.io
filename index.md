@@ -1,5 +1,5 @@
 
-
+<img class="padding_0" width="1px" height="1px" src="assets/me.jpg">
 <img align="right" class="padding_20" src="assets/me.jpg">
 
 # About Me
